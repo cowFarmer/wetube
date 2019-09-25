@@ -2,7 +2,7 @@
   "name": "wetube",
   "version": "1.0.0",
   "description": "Cloning Youtube with Vanilla and NodeJS",
-  "author": "Nicolás Serrano Arévalo",
+  "author": "cowfarmer",
   "dependencies": {
     "@babel/core": "^7.1.5",
     "@babel/node": "^7.0.0",

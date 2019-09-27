@@ -1,10 +1,10 @@
 export const videos = [
   {
-    id:312523,
+    id: 312523,
     title: 'Video awesome',
     description: 'This is something I love',
-    views:24,
-    videoFile: "https://archive.org/details/BitBuckBunny_124",
+    views: 24,
+    videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 191852,
       name:"cowfarmer",
@@ -12,11 +12,11 @@ export const videos = [
     }
   },
   {
-    id:728937,
+    id: 728937,
     title: 'Video super',
     description: 'This is something I love',
-    views:24,
-    videoFile: "https://archive.org/details/BitBuckBunny_124",
+    views: 24,
+    videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 191852,
       name:"cowfarmer",
@@ -24,11 +24,11 @@ export const videos = [
     }
   },
   {
-    id:801981,
+    id: 801981,
     title: 'Video nice',
     description: 'This is something I love',
-    views:24,
-    videoFile: "https://archive.org/details/BitBuckBunny_124",
+    views: 24,
+    videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 191852,
       name:"cowfarmer",
@@ -36,11 +36,11 @@ export const videos = [
     }
   },
   {
-    id:809123,
+    id: 809123,
     title: 'Video good',
     description: 'This is something I love',
-    views:24,
-    videoFile: "https://archive.org/details/BitBuckBunny_124",
+    views: 24,
+    videoFile: "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 191852,
       name:"cowfarmer",

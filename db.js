@@ -8,7 +8,7 @@ export const videos = [
     creator: {
       id: 191852,
       name:"cowfarmer",
-      email:"noehyeanhoo@gmail.com",
+      email:"cow@farmer.com",
     }
   },
   {
@@ -20,7 +20,7 @@ export const videos = [
     creator: {
       id: 191852,
       name:"cowfarmer",
-      email:"noehyeanhoo@gmail.com",
+      email:"cow@farmer.com",
     }
   },
   {
